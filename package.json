@@ -1,17 +1,17 @@
 {
-  "name": "mean-template",
+  "name": "quik-task",
   "version": "0.0.0",
-  "description": "The MEAN Template",
+  "description": "Quik-Task",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chyld/mean-template"
+    "url": "https://github.com/shrutijalewar/quik-task"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "shruti sharma <shrutijalewar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chyld/mean-template/issues"
+    "url": "https://github.com/shrutijalewar/quik-task/issues"
   },
-  "homepage": "https://github.com/chyld/mean-template",
+  "homepage": "https://github.com/shrutijalewar/quik-task",
   "dependencies": {
     "async": "^0.9.0",
     "bcrypt": "^0.8.0",
